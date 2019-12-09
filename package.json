@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "1. Fork this repo\r     * Go to this repo's GitHub page (https://github.com/CorndelWithSoftwire/fizzbuzz-js)\r     * Click `Fork` in the top-right of the page - this will create a copy of this repo in **your own GitHub account**",
+  "main": "fizzbuzz.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorndelWithSoftwire/fizzbuzz-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorndelWithSoftwire/fizzbuzz-js/issues"
+  },
+  "homepage": "https://github.com/CorndelWithSoftwire/fizzbuzz-js#readme"
+}
